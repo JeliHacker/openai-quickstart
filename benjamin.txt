@@ -1,0 +1,312 @@
+Title: The Barclays Trading Strategy that Outperforms the Market
+Video ID: 8pYgz4YlQnE
+Channel: Benjamin
+
+---
+
+last week i made a video talking about
+institutional investment research
+institutional confirmation bias analysis
+talking about individual companies and
+where they thought the share price would
+go
+while i was doing research for that
+video i found
+possibly the most incredible thing ever
+a different report and realized that
+this
+this really requires its own standalone
+video from barclays
+u.s equity derivatives strategy impact
+of retail options trading
+this is a 30-page report from the
+barclays derivatives team about the
+strategy they developed to capitalize on
+new retail options
+trading volume quite literally a
+specific blueprint of how to take money
+from the degenerates of wall street bets
+at the end they offer two trading
+strategies that they actually use to
+drastically outperform the index
+so i thought it would not only be funny
+to read about how barclays takes money
+from robin hood traders but also
+interesting to see if anyone could use
+their strategies to do the same
+literally the first sentence we show
+that retail investors have been driving
+a significant
+increase in option mostly short-dated
+calls
+volumes for large cap stocks i love that
+they throw that in there in the first
+sentence
+just to clarify that we are talking
+about the retail crowd here
+don't worry guys you didn't need to
+clarify i didn't even know robin had
+offered options with more than a week
+until expiration
+i think i think that's what you unlock
+when you get robin hood gold
+so this was posted in september of 2020
+not too long ago
+single stock option volumes have
+increased three times on a
+year-over-year basis
+the increase is in short-term calls on
+large cap tech stocks
+before we move on reading this it's
+littered with so much pretentious
+complicated and boring financial jargon
+then i'm just going to summarize all the
+important parts with memes instead
+if you want to read the whole thing the
+link is down below i mean come on
+monetizing retail driven options
+volatility dislocation
+can't you just say taking money from
+broke people with robin hood instead
+then i wouldn't need the goddamn rosetta
+stone to try to decipher all of this
+that's like how you describe your
+trading strategy to your girlfriend's
+parents
+yeah i focus on looking for option
+volatility dislocation and large cap
+equities
+in reality that's just you fomoing into
+meme stocks with 500
+iv then losing all of your money and not
+eating for a week
+yeah i'm really big into minimalism
+brocism
+how does barclays take money from you
+and how can you use their strategies to
+take money from other people so there
+are a bunch of retail degenerates
+getting stimulus checks and entering the
+market they now have access to robinhood
+zero commission options and just a lot
+of fun ways to lose money we can
+actually see in the report where most
+brokers enabled zero commission
+options trading combine this with
+stimulus checks and interesting things
+are bound to happen
+all of the new degenerates entering the
+market want to take risk
+after all what's the point of making a
+20 return on a thousand dollars
+there is none so what do i need to do to
+leverage my money to the max
+short term cheap out of the money
+options should do the trick
+these 15 out of the money tesla calls
+with two weeks until expiration should
+provide me sufficient leverage to meet
+my personal risk tolerance may as well
+drop my stimulus check and student loans
+into this opportunity
+wouldn't want to miss out on a great
+trade barclays claims that two
+interesting things happen because of
+degenerates yellowing their savings
+they're kind of complicated but i'll try
+to break them down simply
+but first a quick reminder that options
+are priced based on the market's
+anticipated future volatility the higher
+the implied volatility the more
+expensive they become
+so what did those barclays analysts find
+the first thing that's happened
+is the volatility risk premium on some
+stocks has decreased i think i've shown
+this chart in other videos
+this is historic implied volatility
+versus realized volatility
+the space in between is the volatility
+risk premium why should anyone give a
+it shows that the market tends to
+anticipate volatility to be higher than
+what
+actually happens with the new retail
+options buying the spread between these
+two for some stocks has actually
+decreased
+this means that realized volatility has
+been bigger than what the options market
+has anticipated
+for other stocks it's gotten bigger
+implied volatility and realized
+volatility have moved apart from one
+another if you have any options trading
+experience you're probably
+already seeing big dollar signs all i
+need to do is sell these expensive
+options and buy these
+cheap options we'll get into that a
+little later they also mentioned that
+their collection of 100 stocks with the
+highest retail option volume have
+outperformed the
+index however it's somewhat inconclusive
+as they're the same stocks that have
+shown themselves to be resilient in the
+pandemic there is one other
+incredibly important way the retail
+degenerates influence
+share prices i'm gonna try to explain
+this simply broke robinhood trader uses
+wendy's savings to buy worthless
+short-term out-of-the-money options when
+he places his buy order market-making
+man who sold the options needs to keep
+his neutral market position
+in order to be completely neutral he
+buys shares of stock
+now if the call he sold increases in
+value the profit from his shares make
+the position completely neutral but by
+buying those shares he also drove the
+underlying price
+higher this triggers more wendy's
+employees to pile their paychecks into
+deep out of the money options
+it literally can't go tits up this
+causes the market maker to buy more
+shares and hedge's position against the
+calls he sold which once again causes
+the share price to go up this hedging
+share volume has increased significantly
+since the rise of commission free
+options trading
+the mystical gamma squeeze it just means
+that weird things can happen when a lot
+of people are buying out of the money
+options
+just something to keep in mind let's
+look at the actual trading strategies
+barclays recommends using to take money
+from the robinhood traders
+they offer two methods the first is
+monetizing
+elevated volatility using selective vol
+score based
+short delta hedge straddles on single
+stocks
+see what i mean about needing the
+rosetta stone the they're basically
+saying that selling or going
+short volatility on certain stocks is a
+good idea with certain options
+strategies
+you can go long or short volatility
+exactly how you might go long or short a
+stock
+this is one of the great things about
+options now we don't need to gamble on
+which direction a stock will go
+instead we can bet whether it will go in
+either direction a lot or
+a little they're suggesting selling
+straddles if you think the market is
+pricing future volatility too low you
+might buy a straddle by buying a
+combination of a call and
+put the position isn't affected by any
+directional move in the share price
+instead the strategy makes money if
+volatility increases whether that be
+from a directional move
+up or down this would be an example of
+going long volatility using
+options you might also hear this
+referred to as long
+vega barclays is selling straddles or
+shorting volatility on specific stocks
+in doing so they've significantly
+outperformed the market
+however what might even be more
+important is how they determine which
+underlying stock to sell these straddles
+on
+they say they're looking for stocks with
+rich volatility risk premium a wide
+spread between
+anticipated volatility and realized
+volatility
+essentially they've made a ton of money
+selling retail degenerates over
+priced options you might be able to do
+the same
+in the report they mention that they
+find these opportunities using what they
+call their volsscore metric
+unfortunately they don't go into exactly
+how it works
+just the general idea they're looking at
+the spread between the stocks implied
+volatility and the sector's implied
+volatility as well as the implied
+volatility of this stock
+relative to its historic realized
+volatility
+i think it's easier to imagine this
+visually if we look at diagram a we can
+see that they're looking for stocks that
+have a ton of volatility above the
+sector volatility as well as stocks that
+have a wide margin between
+implied volatility and realized
+volatility we can't know specifically
+how they're judging the relationship
+between these three things
+i'm guessing that they're assuming that
+these stocks with such overblown implied
+volatility are bound to revert back to a
+lower volatility point in the future
+more in line with sector volatility in
+this report they say specifically that
+the volatility risk premium hasn't
+expanded uniformly across stocks with
+high retail option volume but there are
+opportunities where it has in a big way
+when you find those opportunities
+that's when you short volatility and
+take money from the retail degenerates
+retail traders blow life savings on out
+of the money options which creates
+spooky weird price
+action sometimes this leads to expensive
+options that are disconnected from
+reality
+the other strategy they describe is
+buying long call spreads on stocks where
+implied volatility and realized
+volatility have converged
+this would be buying a long call then
+selling a deeper out of the money call
+on a stock where this volatility risk
+premium is tighter
+this strategy is less volatility based
+so if you're using it you want to make
+sure you're buying spreads on a company
+you actually believe in
+selling straddles is purely a volatility
+based options strategy but with a long
+call spread your volatility exposure is
+not nearly as large as your directional
+exposure
+so there you go a real barclays trading
+strategy that beats the market
+surprisingly it doesn't seem impossibly
+complicated
+it almost seems like an individual who
+put enough time into this could develop
+something similar
+that's concerning the last thing i need
+is more hope that the stock market will
+ever make me money

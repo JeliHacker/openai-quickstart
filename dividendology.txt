@@ -1,0 +1,457 @@
+Title: How to Calculate the Intrinsic Value of a Stock like Benjamin Graham! (Step by Step)
+Video ID: 8jmjxXc5H8c
+Channel: Dividendology
+
+---
+
+[0:00 - 0:01] having the ability to calculate the
+[0:01 - 0:03] intrinsic value of a stock has been the
+[0:03 - 0:05] key to success for many of the top
+[0:05 - 0:06] investors in the world such as warren
+[0:06 - 0:08] buffett in one of the top investing
+[0:08 - 0:10] books of all time the intelligent
+[0:10 - 0:12] investor benjamin graham laid out a
+[0:12 - 0:14] formula that he used in order to
+[0:14 - 0:16] calculate the intrinsic value of a stock
+[0:16 - 0:18] in today's video i'm going to be taking
+[0:18 - 0:20] you step by step on how to calculate the
+[0:20 - 0:22] intrinsic value of a stock using
+[0:22 - 0:23] graham's formula
+[0:23 - 0:25] okay so now we're ready to start
+[0:25 - 0:26] building out our model
+[0:26 - 0:28] using graham's formula which will lead
+[0:28 - 0:30] us to the intrinsic value of the stock
+[0:30 - 0:31] and you can see here over to the side
+[0:31 - 0:33] i've listed what each of these metrics
+[0:33 - 0:35] here stands for and as i build out this
+[0:35 - 0:36] model i'm going to kind of talk about
+[0:36 - 0:40] what each of these things stands for so
+[0:40 - 0:41] the first thing i'm going to do is i'm
+[0:41 - 0:43] going to create an area just to kind of
+[0:43 - 0:45] give my model a title and let me know
+[0:45 - 0:47] what model i'm using
+[0:47 - 0:49] and i'm just going to title this
+[0:49 - 0:51] graham's valuation
+[0:51 - 0:54] since we are using his
+[0:54 - 0:57] model to build out this valuation
+[0:57 - 0:59] and the first thing we need to know
+[0:59 - 1:00] obviously is what stock we're going to
+[1:00 - 1:02] be looking at
+[1:02 - 1:04] and so for this example let's go ahead
+[1:04 - 1:07] and say that we're going to look at
+[1:07 - 1:09] apple to find the intrinsic value of
+[1:09 - 1:11] apple using grams formula
+[1:11 - 1:12] and as you can see here the first thing
+[1:12 - 1:14] that we need to do is we need to know
+[1:14 - 1:18] the earnings per share of the company
+[1:18 - 1:19] so let's make an area for earnings per
+[1:19 - 1:22] share the next thing is this 8.5 right
+[1:22 - 1:23] here which if we come over here we can
+[1:23 - 1:25] see this is the price to earnings base
+[1:25 - 1:28] for a company that has no growth
+[1:28 - 1:29] so
+[1:29 - 1:31] i'm going to list that out
+[1:31 - 1:33] here
+[1:33 - 1:34] and we're just going to say price to
+[1:34 - 1:35] earnings
+[1:35 - 1:38] no growth
+[1:38 - 1:40] and we know that this will be 8.5
+[1:40 - 1:42] according to graham's formula
+[1:42 - 1:45] and when we come over here we can see 2g
+[1:45 - 1:46] so this g is going to stand for the
+[1:46 - 1:49] growth rate for typically over about the
+[1:49 - 1:51] next five years so i'm going to list two
+[1:51 - 1:53] things here i'm just going to type out
+[1:53 - 1:56] growth rate
+[1:57 - 1:58] and then i'm going to list out below
+[1:58 - 1:59] this
+[1:59 - 2:00] to
+[2:00 - 2:03] g and i'll come back to this 2g and talk
+[2:03 - 2:05] a little bit about this more later then
+[2:05 - 2:07] we can see here there's a 4.4 here and
+[2:07 - 2:09] we can see that this is the average
+[2:09 - 2:11] yield of the aaa corporate bonds and
+[2:11 - 2:13] this was the average yield during
+[2:13 - 2:15] graham's time but it's also applicable
+[2:15 - 2:16] still today
+[2:16 - 2:20] so let's go ahead and list this out here
+[2:21 - 2:24] see if i can spell correctly
+[2:25 - 2:28] and then the final thing in this formula
+[2:28 - 2:29] is we need to know what y stands for so
+[2:29 - 2:32] y stands for the current yield of the
+[2:32 - 2:32] aaa
+[2:32 - 2:34] corporate bonds and that'll be something
+[2:34 - 2:36] that we have to look at look up as it
+[2:36 - 2:39] changes constantly
+[2:43 - 2:44] and so now we have all the metrics that
+[2:44 - 2:48] we need to start filling out
+[2:48 - 2:49] our valuation
+[2:49 - 2:51] so the very first piece of data that
+[2:51 - 2:53] we're going to need about apple in order
+[2:53 - 2:55] to come to this valuation is we need to
+[2:55 - 2:57] know its earnings per share so there's a
+[2:57 - 2:58] couple different ways that we can find
+[2:58 - 3:00] the earnings per share the first way we
+[3:00 - 3:01] could do it is if we just go to google
+[3:01 - 3:03] we can go to
+[3:03 - 3:06] yahoo finance
+[3:08 - 3:11] and we'll pull it up here
+[3:13 - 3:16] and if we come up here to the top
+[3:16 - 3:19] we can just search for apple
+[3:23 - 3:27] and we'll pull up apple
+[3:27 - 3:29] and now we have a page that has some
+[3:29 - 3:30] data on apple we want to find its
+[3:30 - 3:32] earnings per share for the trailing 12
+[3:32 - 3:34] months and if we look right here
+[3:34 - 3:36] here it is right here so we can see that
+[3:36 - 3:39] it is 5.11
+[3:39 - 3:41] so if we come back here you can put in
+[3:41 - 3:44] 5.11 right here but another quick way
+[3:44 - 3:46] that you can do this in google sheets is
+[3:46 - 3:50] use the google finance function
+[3:50 - 3:51] and if we do google finance and select
+[3:51 - 3:53] apple
+[3:53 - 3:56] and just type in earnings per share
+[3:56 - 3:58] we can see that
+[3:58 - 4:00] this will automatically fill in so let's
+[4:00 - 4:02] say i were to change the stock right
+[4:02 - 4:04] here and put in verizon
+[4:04 - 4:05] verizon's earning per share will
+[4:05 - 4:07] automatically fill in so it's kind of up
+[4:07 - 4:08] to you how you do that part but that's
+[4:08 - 4:11] just a cool way you can automatically
+[4:11 - 4:12] pull up the earnings per share and kind
+[4:12 - 4:15] of automate the whole valuation process
+[4:15 - 4:16] so we can see here the next thing that
+[4:16 - 4:18] we want is our price to earnings for a
+[4:18 - 4:20] no growth company and benjamin graham
+[4:20 - 4:22] went ahead and did the hard work and
+[4:22 - 4:24] found this number to be 8.5 so if you're
+[4:24 - 4:26] going to use this formula that's a
+[4:26 - 4:27] number that will stay consistent so we
+[4:27 - 4:31] can just put 8.5 right here
+[4:31 - 4:33] and the next thing i need to do is fix
+[4:33 - 4:36] the way i spelt this
+[4:36 - 4:38] and okay so now we need to know our
+[4:38 - 4:39] growth rate
+[4:39 - 4:42] so he went ahead and
+[4:42 - 4:45] made the growth rate 2g so this g stands
+[4:45 - 4:46] for growth rate so we're going to go
+[4:46 - 4:48] back to yahoo finance
+[4:48 - 4:49] and the growth rate is not listed on
+[4:49 - 4:51] this page right here but if we come over
+[4:51 - 4:53] here to analysis
+[4:53 - 4:57] and click on this
+[4:58 - 5:00] we can scroll down here
+[5:00 - 5:03] and we can see
+[5:03 - 5:05] for about the next five years we can see
+[5:05 - 5:07] the growth rate and we can see that
+[5:07 - 5:09] analysts are predicting apple have a
+[5:09 - 5:10] growth rate
+[5:10 - 5:11] at about
+[5:11 - 5:13] 17.93 percent
+[5:13 - 5:16] and so this is kind of a number that's
+[5:16 - 5:17] up to yourself so if you feel like
+[5:17 - 5:19] that's too high or too low this is an
+[5:19 - 5:21] adjustable number because this is a
+[5:21 - 5:23] prediction about the future for the sake
+[5:23 - 5:24] of this model i'm going to go ahead and
+[5:24 - 5:27] go with what the yahoo finance analyst
+[5:27 - 5:30] believe it'll be which is 17.93
+[5:30 - 5:33] this 2g is just the multiplier for this
+[5:33 - 5:35] growth rate so this is just simply going
+[5:35 - 5:35] to be
+[5:35 - 5:37] 2.
+[5:37 - 5:38] and then we need to know the average
+[5:38 - 5:40] yield of a aaa bond which for this
+[5:40 - 5:43] formula is sitting at 4.4 that's kind of
+[5:43 - 5:45] the average for all time but the last
+[5:45 - 5:47] thing that we need to know is what y
+[5:47 - 5:50] stands for the current yield of the aaa
+[5:50 - 5:53] corporate bonds so we need to go back
+[5:53 - 5:54] and we need to search for the current
+[5:54 - 5:57] yield of a aaa corporate bond so i'm
+[5:57 - 6:00] just going to type this in google
+[6:01 - 6:04] and we can see
+[6:04 - 6:05] right here i'm going to pull it up and
+[6:05 - 6:07] we want to make sure we have the most
+[6:07 - 6:08] up-to-date
+[6:08 - 6:12] data on this so let's
+[6:12 - 6:14] go here
+[6:14 - 6:16] and we can see here this is the official
+[6:16 - 6:18] economic data
+[6:18 - 6:19] and we want to know the a corporate bond
+[6:19 - 6:21] yield
+[6:21 - 6:24] and if we look
+[6:24 - 6:26] right now we can see it is currently
+[6:26 - 6:29] 2.57 and this is something that changes
+[6:29 - 6:30] somewhat frequently so it's important to
+[6:30 - 6:32] come back and look at this data
+[6:32 - 6:36] once you update your model
+[6:36 - 6:37] and so we're going to put
+[6:37 - 6:39] 2.57
+[6:39 - 6:40] right here
+[6:40 - 6:42] and now we have all the data that we
+[6:42 - 6:44] need in order to calculate the intrinsic
+[6:44 - 6:46] value of apple but before we do that we
+[6:46 - 6:48] want to make sure that this is a
+[6:48 - 6:50] reusable model so i want to go ahead and
+[6:50 - 6:52] highlight everything in this model that
+[6:52 - 6:54] may change in the future so for example
+[6:54 - 6:55] the earnings per share is going to
+[6:55 - 6:57] change in the future so let's go ahead
+[6:57 - 6:58] and highlight this
+[6:58 - 7:00] and we know that this 8.5 won't change
+[7:00 - 7:02] because it's consistent with the formula
+[7:02 - 7:04] this growth rate will definitely change
+[7:04 - 7:06] in the future so we want to highlight
+[7:06 - 7:07] this as well
+[7:07 - 7:09] r2 here won't change because that is our
+[7:09 - 7:12] multiplier for the growth rate our 4.4
+[7:12 - 7:13] will not change because that's
+[7:13 - 7:16] consistent with the formula but why our
+[7:16 - 7:17] current yield of the triple-a corporate
+[7:17 - 7:19] bond will most definitely change in the
+[7:19 - 7:21] future so we want to highlight this as
+[7:21 - 7:23] well and now we want to come down here
+[7:23 - 7:24] and we actually want to start to
+[7:24 - 7:27] calculate the intrinsic value
+[7:27 - 7:28] of this
+[7:28 - 7:31] stock and so we are going to use this
+[7:31 - 7:32] data that we have already gathered and
+[7:32 - 7:34] we are going to plug it into graham's
+[7:34 - 7:35] formula
+[7:35 - 7:36] so we are going to start with the equal
+[7:36 - 7:39] sign and open this parenthesis and the
+[7:39 - 7:41] first thing we need is our earnings per
+[7:41 - 7:42] share
+[7:42 - 7:44] and we want to take this and we want to
+[7:44 - 7:45] multiply it
+[7:45 - 7:47] and have another open parenthesis and
+[7:47 - 7:50] we're going to take our 8.5 here
+[7:50 - 7:53] and add that to
+[7:53 - 7:55] these two numbers here multiplied
+[7:55 - 7:58] together so we'll take our 17.93
+[7:58 - 8:00] multiply this by 2
+[8:00 - 8:02] and then we're going to close two
+[8:02 - 8:03] parentheses here and then we want to
+[8:03 - 8:05] multiply all of this
+[8:05 - 8:09] and we want to multiply it by our 4.4
+[8:09 - 8:10] and let's close this parentheses and
+[8:10 - 8:12] then the final step is we want to divide
+[8:12 - 8:14] all of this by our current yield of the
+[8:14 - 8:17] aaa corporate bonds our y value so we'll
+[8:17 - 8:21] do divide and divide it by 2.57
+[8:21 - 8:23] and when we hit enter
+[8:23 - 8:25] we can see that we currently have our
+[8:25 - 8:28] intrinsic value of apple based off of
+[8:28 - 8:32] our formula and our model that we put in
+[8:32 - 8:33] and now we have our intrinsic value
+[8:33 - 8:35] calculated but we actually want to take
+[8:35 - 8:37] this a step farther so we want to know
+[8:37 - 8:40] what our margin of safety is so that we
+[8:40 - 8:41] can make a decision if we should be
+[8:41 - 8:44] buying or selling this stock so let's go
+[8:44 - 8:47] ahead and box off this area on its own
+[8:47 - 8:48] and we'll scroll down
+[8:48 - 8:51] and we will quickly make a new area and
+[8:51 - 8:54] here we want to know what the current
+[8:54 - 8:56] price
+[8:56 - 8:59] of the stock is we want to know
+[8:59 - 9:02] the difference
+[9:02 - 9:04] and we need a
+[9:04 - 9:06] margin
+[9:06 - 9:08] of safety
+[9:08 - 9:10] and then we need to know what are
+[9:10 - 9:11] acceptable
+[9:11 - 9:14] buy prices
+[9:16 - 9:18] and we'll go ahead and center this text
+[9:18 - 9:20] as well
+[9:20 - 9:22] and so for the current price this is
+[9:22 - 9:23] something we could just look up on
+[9:23 - 9:25] google again but i'm going to go ahead
+[9:25 - 9:27] and use the google finance formula again
+[9:27 - 9:28] to do this
+[9:28 - 9:30] and have it refer back to apple
+[9:30 - 9:33] and this give us this gives us apple's
+[9:33 - 9:35] current share price and so what i need
+[9:35 - 9:36] to do now is i need to know the
+[9:36 - 9:38] difference in the current price and the
+[9:38 - 9:40] intrinsic value so all i'm going to do
+[9:40 - 9:41] is i'm going to take the current price
+[9:41 - 9:45] and divide it by the intrinsic value
+[9:45 - 9:47] and here we can see we want to make this
+[9:47 - 9:49] a percentage so the difference in these
+[9:49 - 9:52] prices is 37.58 percent so the current
+[9:52 - 9:54] price is only
+[9:54 - 9:57] 37.58 of the intrinsic value of this
+[9:57 - 9:59] stock and let's say that our margin of
+[9:59 - 10:01] safety is about
+[10:01 - 10:03] 65
+[10:03 - 10:05] so based off this we want to know what
+[10:05 - 10:07] are acceptable by prices
+[10:07 - 10:09] so we want to take
+[10:09 - 10:12] our 65 percent and we want to multiply
+[10:12 - 10:15] that by the intrinsic value of this
+[10:15 - 10:16] stock
+[10:16 - 10:18] and we can see based on this data our
+[10:18 - 10:21] acceptable buy price is going to be 252
+[10:21 - 10:23] or anything below that and the last
+[10:23 - 10:25] thing that i want to do to this model is
+[10:25 - 10:28] i want to add an area that tells me buy
+[10:28 - 10:31] or sell so i want to automate this
+[10:31 - 10:32] spreadsheet to where it will
+[10:32 - 10:34] automatically tell me if i should be
+[10:34 - 10:36] buying or selling this stock based off
+[10:36 - 10:39] the variables that we put in up here so
+[10:39 - 10:40] to do this we are going to use an if
+[10:40 - 10:42] statement
+[10:42 - 10:44] and we want to say
+[10:44 - 10:46] if
+[10:46 - 10:49] our acceptable buy price is
+[10:49 - 10:50] less than
+[10:50 - 10:53] the intrinsic value
+[10:53 - 10:56] then we want it to say buy
+[10:56 - 11:01] and if not we want it to say sell
+[11:04 - 11:07] and we hit enter here we can see it says
+[11:07 - 11:09] to buy the stock right now
+[11:09 - 11:12] let's go ahead and format this to make
+[11:12 - 11:15] it look better and box this off
+[11:15 - 11:17] so now we have a model based off of
+[11:17 - 11:20] graham's formula that is calculating the
+[11:20 - 11:22] intrinsic value of apple and it's also
+[11:22 - 11:24] giving us a signal as to whether we
+[11:24 - 11:27] should be buying or selling apple based
+[11:27 - 11:29] on our margin of safety
+[11:29 - 11:31] and one of the things that you'll notice
+[11:31 - 11:33] about this model
+[11:33 - 11:35] is our intrinsic value is currently much
+[11:35 - 11:37] higher than the current price of apple
+[11:37 - 11:39] and so this actually leads me to want to
+[11:39 - 11:41] talk about one of the drawbacks of this
+[11:41 - 11:43] formula so many investors today believe
+[11:43 - 11:45] that the growth part of the formula
+[11:45 - 11:48] which is this 8.5 plus 2g is far too
+[11:48 - 11:50] aggressive and a more realistic price to
+[11:50 - 11:52] earnings base for a no growth company
+[11:52 - 11:55] instead of 8.5 should actually be 7 and
+[11:55 - 11:58] instead of 2g for a growth multiplier it
+[11:58 - 12:00] should actually be 1g so what they've
+[12:00 - 12:02] done is they have created a revised
+[12:02 - 12:04] formula with those changes that i just
+[12:04 - 12:06] mentioned so what i'm going to do is i'm
+[12:06 - 12:07] actually going to take that revised
+[12:07 - 12:09] formula and i'm going to build out a
+[12:09 - 12:11] model identical to the one that we just
+[12:11 - 12:12] made and we will compare the two
+[12:12 - 12:14] together okay so i've jumped ahead and
+[12:14 - 12:16] we can see over here to the right i have
+[12:16 - 12:18] built out a model based on graham's
+[12:18 - 12:21] revised evaluation formula so over here
+[12:21 - 12:23] to the left we have the old formula that
+[12:23 - 12:25] we just used and the only changes that
+[12:25 - 12:27] i've made on this side are formatting
+[12:27 - 12:29] changes so all the numbers are still the
+[12:29 - 12:31] same we can see we still have our same
+[12:31 - 12:33] intrinsic value and here to the right we
+[12:33 - 12:35] can see really the only changes with
+[12:35 - 12:38] this revised valuation formula instead
+[12:38 - 12:40] of the price to earnings of a company
+[12:40 - 12:43] with no growth being 8.5 is it's now 7.
+[12:43 - 12:45] and instead of a 2g multiplier over here
+[12:45 - 12:47] we now have a 1g multiplier
+[12:47 - 12:49] and when we take a look at the intrinsic
+[12:49 - 12:50] value of the two
+[12:50 - 12:52] there's a large difference so in our
+[12:52 - 12:55] original formula we can see that the
+[12:55 - 12:57] intrinsic value came out to 388 dollars
+[12:57 - 13:00] per share but on the revised formula
+[13:00 - 13:02] which is used more today we can see that
+[13:02 - 13:05] our intrinsic value is 218 dollars per
+[13:05 - 13:07] share so we can see just how much of a
+[13:07 - 13:09] difference that this small revision can
+[13:09 - 13:11] actually make and when we come down to
+[13:11 - 13:14] our margin of safety area we can see we
+[13:14 - 13:16] kept the same 65 percent margin of
+[13:16 - 13:18] safety and when we take a look at our
+[13:18 - 13:21] acceptable buy price
+[13:21 - 13:23] for our revised formula it's 141 dollars
+[13:23 - 13:25] per share which is actually less than
+[13:25 - 13:28] the current price so based on our margin
+[13:28 - 13:30] of safety this is not a time that we
+[13:30 - 13:31] would want to be buying apple stock and
+[13:31 - 13:33] when we compare this with the original
+[13:33 - 13:35] valuation we can see
+[13:35 - 13:37] that would be a time we want to buy the
+[13:37 - 13:39] stock so you can see just how big of a
+[13:39 - 13:41] difference that the two formulas can
+[13:41 - 13:42] make
+[13:42 - 13:43] so let's go ahead and do one more
+[13:43 - 13:45] example and what i've done is i have
+[13:45 - 13:47] automated both of these models to where
+[13:47 - 13:49] all we need to do is update the data
+[13:49 - 13:52] that is in the yellow squares
+[13:52 - 13:54] and our model will update automatically
+[13:54 - 13:56] so let's say that we want to take a look
+[13:56 - 13:59] at verizon so the first thing we need to
+[13:59 - 14:01] do is we will just list verizon stock
+[14:01 - 14:03] ticker here
+[14:03 - 14:05] and verizon stock ticker here and we can
+[14:05 - 14:07] see that our earnings per share has
+[14:07 - 14:08] already filled in automatically the next
+[14:08 - 14:10] thing we need to do is we need to find
+[14:10 - 14:13] the projected growth rate of verizon so
+[14:13 - 14:15] let's go back over to google and we will
+[14:15 - 14:19] go to yahoo finance
+[14:25 - 14:27] and we need to find the growth rate so
+[14:27 - 14:29] we'll put in their ticker here
+[14:29 - 14:31] and we will search for verizon
+[14:31 - 14:34] communications
+[14:38 - 14:43] and we will come over here to analysis
+[14:48 - 14:49] and if we scroll all the way near the
+[14:49 - 14:50] bottom
+[14:50 - 14:52] we can see that their projected growth
+[14:52 - 14:54] rate is going to be
+[14:54 - 14:56] 3.17 percent so let's go back to our
+[14:56 - 14:59] model and we will put in 3.17
+[14:59 - 15:00] for
+[15:00 - 15:03] the growth rate and we can see here
+[15:03 - 15:05] our current yield on triple-a corporate
+[15:05 - 15:06] bonds we just looked that up earlier so
+[15:06 - 15:08] we know that hasn't changed and i don't
+[15:08 - 15:10] want to change my margin of safety right
+[15:10 - 15:12] now i think i want to keep that the same
+[15:12 - 15:14] so we can see based off the data that we
+[15:14 - 15:16] just put in we already have our
+[15:16 - 15:18] intrinsic value calculated in both of
+[15:18 - 15:20] these models we can see with graham's
+[15:20 - 15:22] original evaluation formula the
+[15:22 - 15:25] intrinsic value is 122 dollars per share
+[15:25 - 15:27] and with the revised valuation formula
+[15:27 - 15:29] we get an intrinsic value of 84 dollars
+[15:29 - 15:32] per share and when we take a look at our
+[15:32 - 15:33] margin of safety it's kind of the same
+[15:33 - 15:35] thing as the apple stock based on the
+[15:35 - 15:37] original valuation this would be a time
+[15:37 - 15:40] we want to be buying the stock and based
+[15:40 - 15:42] on our new valuation which is the
+[15:42 - 15:44] revised formula we can see this is not a
+[15:44 - 15:45] time that we would want to be buying the
+[15:45 - 15:48] stock keep in mind that no valuation
+[15:48 - 15:50] model is perfect and what we really want
+[15:50 - 15:52] to shoot for when creating financial
+[15:52 - 15:53] models is a range where we think the
+[15:53 - 15:56] intrinsic value of the stock falls into
+[15:56 - 15:58] always do your due diligence when making
+[15:58 - 15:59] an investment decision and keep in mind
+[15:59 - 16:02] that i'm not a financial advisor
+[16:02 - 16:03] i hope this video has helped show you
+[16:03 - 16:04] how to calculate the intrinsic value of
+[16:04 - 16:07] a stock using benjamin graham's formula
+[16:07 - 16:08] if you'd like to be able to download
+[16:08 - 16:09] this model that i've built in google
+[16:09 - 16:11] sheets then you can head to my patreon
+[16:11 - 16:13] page at the link in the description so
+[16:13 - 16:15] that being said thank you guys so much
+[16:15 - 16:16] for watching and please don't forget to
+[16:16 - 16:20] like and subscribe to the channel
